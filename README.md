@@ -1,5 +1,3 @@
-# My-developer-home
-
 # Hi, i'm Mei-Lin
 
 I want to build a game this month
