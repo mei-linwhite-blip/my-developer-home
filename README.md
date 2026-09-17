@@ -1,4 +1,6 @@
-# Hi, i'm Mei-Lin
+# Hi, my name is Snapple
+
+My background consists of watermelon and lemonade.
 
 I want to build a game this month
 
